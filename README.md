@@ -1,4 +1,4 @@
-# Fake-News-Detection
+# LLM-Model
 This project is an AI-powered solution to detect and classify fake news using advanced Natural Language Processing (NLP) techniques. Built in Jupyter Notebook, the project leverages machine learning models to analyze and predict whether a given news article is real or fake.
 
 Key Features
@@ -9,19 +9,15 @@ Scalable and Modular: Easy-to-extend pipeline for experimenting with different d
 Interactive Visualizations: Visualize results and data trends using libraries like Matplotlib and Seaborn.
 Technology Stack
 Programming Language: Python
-Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK, SpaCy
+Libraries:Tensorflow
 Notebook Environment: Jupyter Notebook
 Installation and Usage
 
 Clone the repository
 Install dependencies:
-bash
-Copy code
 pip install -r requirements.txt
-Open the Jupyter Notebook:
-bash
-Copy code
-jupyter notebook
+
+
 Follow the instructions in the notebook to train the model or test on sample data.
 Dataset
 The project uses publicly available fake news datasets such as:
