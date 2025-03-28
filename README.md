@@ -1,5 +1,5 @@
 # LLM-Model
-This project is an AI-powered solution to detect and classify fake news using advanced Natural Language Processing (NLP) techniques. Built in Jupyter Notebook, the project leverages machine learning models to analyze and predict whether a given news article is real or fake.
+
 
 Key Features
 Data Preprocessing: Clean and preprocess textual data, including tokenization, stemming, and vectorization.
